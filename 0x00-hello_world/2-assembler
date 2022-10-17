@@ -1,1 +1,2 @@
-gcc $SCFILE -S
+#!/bin/bash
+gcc $CFILE -S
